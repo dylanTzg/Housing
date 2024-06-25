@@ -3,3 +3,6 @@ maps/
 
 # Ignorer le fichier data.csv
 data.csv
+
+# Ignorer tous les fichiers .csv
+*.csv
